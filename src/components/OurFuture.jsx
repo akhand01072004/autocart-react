@@ -62,7 +62,7 @@ function OurFuture() {
 
             <a
               href="#contact"
-              className="mt-8 inline-flex items-center gap-2 rounded-xl bg-slate-950 px-6 py-3.5 font-semibold text-white transition hover:bg-cyan-600"
+              className="mt-8 inline-flex items-center gap-2 rounded-xl bg-blue-400 px-6 py-3.5 font-semibold text-white transition hover:bg-cyan-600"
             >
               Connect With Us
               <ArrowUpRight size={18} />
