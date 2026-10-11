@@ -2,6 +2,14 @@
 import { ArrowUpRight, CalendarDays, MapPin } from "lucide-react";
 
 const milestones = [
+    {
+    title: "SMARTCARE Garage",
+    category: "Automotive Services",
+    description:
+      "Moments from the garage inauguration and the growth of automotive service operations.",
+    image: "/assets/img/garage-inauguration.png",
+    alt: "SMARTCARE Garage inauguration",
+  },
   {
     title: "SMARTCARE Training Center",
     category: "Training & Skill Development",
@@ -10,14 +18,7 @@ const milestones = [
     image: "/assets/img/training-inauguration.jpeg",
     alt: "SMARTCARE Training Center inauguration",
   },
-  {
-    title: "SMARTCARE Garage",
-    category: "Automotive Services",
-    description:
-      "Moments from the garage inauguration and the growth of automotive service operations.",
-    image: "/assets/img/garage-inauguration.png",
-    alt: "SMARTCARE Garage inauguration",
-  },
+  
 ];
 
 function Milestones() {

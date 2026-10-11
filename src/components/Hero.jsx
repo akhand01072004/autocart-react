@@ -11,21 +11,7 @@ import {
 } from "lucide-react";
 
 const heroPhotos = [
-  {
-    src: "/assets/img/carousel/training-1.png",
-    title: "SMARTCARE TRAINING CENTER",
-    category: "Training Center",
-  },
-  {
-    src: "/assets/img/carousel/training-2.png",
-    title: "Practical Learning",
-    category: "Training Center",
-  },
-  {
-    src: "/assets/img/carousel/training-3.png",
-    title: "Skills Development",
-    category: "Training Center",
-  },
+  
   {
     src: "/assets/img/carousel/garage-1.png",
     title: "SMARTCARE GARAGE",
@@ -40,6 +26,21 @@ const heroPhotos = [
     src: "/assets/img/carousel/garage-3.png",
     title: "Vehicle Maintenance",
     category: "SmartCare Garage",
+  },
+  {
+    src: "/assets/img/carousel/training-1.png",
+    title: "SMARTCARE TRAINING CENTER",
+    category: "Training Center",
+  },
+  {
+    src: "/assets/img/carousel/training-2.png",
+    title: "Practical Learning",
+    category: "Training Center",
+  },
+  {
+    src: "/assets/img/carousel/training-3.png",
+    title: "Skills Development",
+    category: "Training Center",
   },
 ];
 
