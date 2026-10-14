@@ -8,7 +8,7 @@ import {
 
 const divisions = [
   {
-    title: "SmartCare Garage",
+    title: "SMARTCARE GARAGE",
     subtitle: "Automotive Service & Maintenance",
     image: "/assets/img/carousel/garage-1.png",
     description:
@@ -21,7 +21,7 @@ const divisions = [
     icon: Wrench,
   },
   {
-    title: "SmartCare Training Center",
+    title: "SMARTCARE TRAINING CENTER",
     subtitle: "Automotive Skills & Development",
     image: "/assets/img/carousel/training-1.png",
     description:
