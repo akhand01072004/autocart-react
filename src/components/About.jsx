@@ -22,7 +22,7 @@ const divisions = [
   },
   {
     title: "SMARTCARE TRAINING CENTER",
-    subtitle: "Automotive Skills & Development",
+    subtitle: "Automotive Skill & Development",
     image: "/assets/img/carousel/training-1.png",
     description:
       "Practical automobile training that combines real workshop experience with the skills needed to prepare for industry opportunities.",
