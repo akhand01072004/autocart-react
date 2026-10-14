@@ -82,7 +82,7 @@ function Footer() {
 
             <p className="mt-6 text-sm leading-7 text-slate-300">
               AUTOCART is an emerging leader in India's automotive
-              industry. Founded in 2025 in Jaunpur, Uttar Pradesh.
+              industry. Founded in 2024 in Jaunpur, Uttar Pradesh.
               We are redefining automotive services through
               innovation, nationwide collaboration, and a commitment
               to excellence.
@@ -137,7 +137,7 @@ function Footer() {
                 />
                 <p>
                   <strong className="text-white">Address:</strong>{" "}
-                  Jaunpur - 222002
+                  Sec - 03, Jaunpur,Uttar Pradesh, India - 222002
                 </p>
               </div>
 
@@ -149,7 +149,7 @@ function Footer() {
                 <p>
                   <strong className="text-white">Email:</strong>{" "}
                   <a
-                    href="mailto:autocarthr@gmail.com"
+                    href="mailto:hr@autocart.co.in"
                     className="break-all transition hover:text-cyan-400"
                   >
                     autocarthr@gmail.com
