@@ -35,27 +35,23 @@ const socialLinks = [
   {
     label: "Instagram",
     icon: Instagram,
-    href: "https://www.instagram.com/",
+    href: "https://www.instagram.com/autocart.automotive/",
   },
   {
     label: "YouTube",
     icon: Youtube,
-    href: "https://www.youtube.com/",
+    href: "https://www.youtube.com/@autocart.automotive",
   },
   {
     label: "Facebook",
     icon: Facebook,
-    href: "https://www.facebook.com/",
+    href: "https://www.facebook.com/autocartautomotive",
   },
-  {
-    label: "Twitter",
-    icon: Twitter,
-    href: "https://twitter.com/",
-  },
+  
   {
     label: "LinkedIn",
     icon: Linkedin,
-    href: "https://www.linkedin.com/",
+    href: "https://in.linkedin.com/company/autocart-company",
   },
 ];
 
