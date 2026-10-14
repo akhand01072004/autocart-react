@@ -152,7 +152,7 @@ function Footer() {
                     href="mailto:hr@autocart.co.in"
                     className="break-all transition hover:text-cyan-400"
                   >
-                    autocarthr@gmail.com
+                    hr@autocart.co.in
                   </a>
                 </p>
               </div>
