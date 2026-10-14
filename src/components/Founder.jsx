@@ -49,15 +49,15 @@ function Founder() {
               {/* Image caption */}
               <div className="absolute inset-x-0 bottom-0 bg-gradient-to-t from-slate-950/95 via-slate-950/60 to-transparent p-5 pt-16 sm:p-7 sm:pt-20">
                 <p className="text-xs font-semibold uppercase tracking-[0.2em] text-cyan-300">
-                  Founder &amp; CEO
+                  
                 </p>
 
                 <h3 className="mt-2 text-xl font-bold text-white sm:text-2xl lg:text-3xl">
                   Utsav Kumar Upadhyay
                 </h3>
 
-                <p className="mt-2 text-sm text-slate-200">
-                  AUTOCART
+                <p className="mt-2 text-sm text-white font-bold">
+                  FOUNDER &amp; CEO - AUTOCART
                 </p>
               </div>
             </div>

@@ -3,7 +3,7 @@ import { ArrowUpRight, CalendarDays, MapPin } from "lucide-react";
 
 const milestones = [
     {
-    title: "SMARTCARE Garage",
+    title: "SMARTCARE GARAGE",
     category: "Automotive Services",
     description:
       "Moments from the garage inauguration and the growth of automotive service operations.",
@@ -11,7 +11,7 @@ const milestones = [
     alt: "SMARTCARE Garage inauguration",
   },
   {
-    title: "SMARTCARE Training Center",
+    title: "SMARTCARE TRAINING CENTER",
     category: "Training & Skill Development",
     description:
       "Highlights from the training center inauguration and the development of automotive skills.",

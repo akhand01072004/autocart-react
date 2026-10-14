@@ -10,6 +10,7 @@ import Contact from "./components/Contact";
 import Footer from "./components/Footer";
 import Founder from "./components/Founder";
 import Milestones from "./components/Milestones";
+import FloatingContact from "./components/FloatingContact";
 
 function App() {
   return (
@@ -41,6 +42,7 @@ function App() {
         <Contact/>
 
         <Footer/>
+        <FloatingContact/>
 
 
         
