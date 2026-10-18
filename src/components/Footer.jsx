@@ -139,7 +139,7 @@ function Footer() {
                 />
                 <p>
                   <strong className="text-white">Address:</strong>{" "}
-                  Sec - 03, Jaunpur, Uttar Pradesh, India - 222002
+                  Sec - 03,  Jaunpur,  Uttar Pradesh, India - 222002
                 </p>
               </div>
 
