@@ -72,10 +72,10 @@ const gallerySections = [
         src: "/assets/img/gallery/franchise-12.jpeg",
         alt: "Automotive service centre",
       },
-      {
-        src: "/assets/img/gallery/franchise-13.jpeg",
-        alt: "Automotive service centre",
-      },
+    //   {
+    //     src: "/assets/img/gallery/franchise-13.jpeg",
+    //     alt: "Automotive service centre",
+    //   },
       {
         src: "/assets/img/gallery/franchise-14.jpeg",
         alt: "Automotive service centre",
