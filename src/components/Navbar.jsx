@@ -2,14 +2,17 @@
 import { useState } from "react";
 import { Menu, X, ArrowUpRight } from "lucide-react";
 
+
 const navLinks = [
   { label: "Home", href: "#home" },
   { label: "About", href: "#about" },
   { label: "Services", href: "#services" },
+  { label: "Our Gallery", href: "#gallery" },
   { label: "Mission & Vision", href: "#mission-vision" },
   { label: "Our Journey", href: "#our-journey" },
   { label: "Our Future", href: "#our-future" },
 ];
+
 
 export default function Navbar() {
   const [menuOpen, setMenuOpen] = useState(false);

@@ -11,6 +11,7 @@ import Footer from "./components/Footer";
 import Founder from "./components/Founder";
 import Milestones from "./components/Milestones";
 import FloatingContact from "./components/FloatingContact";
+import Gallery from "./components/Gallery";
 
 function App() {
   return (
@@ -31,6 +32,8 @@ function App() {
 
         <Services/>
 
+        <Gallery/>
+
         <MissionVision/>
 
         <OurJourney/>
@@ -40,10 +43,12 @@ function App() {
         <OurFuture/>
 
         <Contact/>
-
+        
         <Footer/>
 
         <FloatingContact/>
+
+        
 
 
         

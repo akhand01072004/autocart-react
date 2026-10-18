@@ -16,6 +16,7 @@ import {
   MessageCircle,
   Twitter,
 } from "lucide-react";
+import SocialIcons from "./SocialIcons";
 
 const services = [
   "Automotive Services",
@@ -88,7 +89,7 @@ function Footer() {
               to excellence.
             </p>
 
-            <div className="mt-6 flex flex-wrap gap-2">
+            {/* <div className="mt-6 flex flex-wrap gap-2">
               {socialLinks.map(({ label, icon: Icon, href }) => (
                 <a
                   key={label}
@@ -102,7 +103,8 @@ function Footer() {
                   <Icon size={18} />
                 </a>
               ))}
-            </div>
+            </div> */}
+            <SocialIcons/>
           </div>
 
           {/* Services */}
